@@ -1,8 +1,14 @@
 <?xml version="1.0"?>
 
+<InstallVariables>
+
+<!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: C750i_C650i_C360i_C4050i_C4000i_C3320i.pkg - ONLY CHANGE IF NEEDED   ******-->  
+<InstallVar name="driverPackageName">958_658e_558_368_367.pkg</InstallVar>
+<!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: C750i_C650i_C360i_C4050i_C4000i_C3320i.pkg   ******-->
+  
+  
 <!--***** START Printer 1 Variables from XML file URL   ******-->
 
-<InstallVariables>
 <InstallVar name="ipaddress1">10.0.0.200</InstallVar>
 <InstallVar name="Location1">HomeOffice</InstallVar>
 <InstallVar name="PPDModel1">558</InstallVar>
