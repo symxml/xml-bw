@@ -9,7 +9,7 @@
   
 <!--***** START Printer 1 Variables from XML file URL   ******-->
 
-<InstallVar name="ipaddress1">10.0.0.200</InstallVar>
+<InstallVar name="ipaddress1">192.168.1.200</InstallVar>
 <InstallVar name="Location1">HomeOffice</InstallVar>
 <InstallVar name="PPDModel1">558</InstallVar>
 <InstallVar name="PrinterNamebw1">KM_BW</InstallVar>
@@ -21,7 +21,7 @@
 
 <!--***** START Printer 2 Variables from XML file URL OPTIONAL   *********************-->
 
-<InstallVar name="ipaddress2">10.0.0.201</InstallVar>
+<InstallVar name="ipaddress2">192.168.1.201</InstallVar>
 <InstallVar name="Location2">Office</InstallVar>
 <InstallVar name="PPDModel2">368</InstallVar>
 <InstallVar name="PrinterNamebw2">KM2_BW</InstallVar>
