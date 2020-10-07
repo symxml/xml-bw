@@ -3,7 +3,7 @@
 <InstallVariables>
 <!--***** START Printer 1 Variables from XML file URL   ******-->
 
-<InstallVar name="ipaddress1">10.0.0.201</InstallVar>
+<InstallVar name="ipaddress1">10.1.1.200</InstallVar>
 <InstallVar name="PrinterName1">Konica_Copier</InstallVar>
 
 <!--***** START Printer 2 Variables from XML file URL OPTIONAL   *********************-->
