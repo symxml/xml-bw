@@ -3,7 +3,7 @@
 <InstallVariables>
 
 <!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: C750i_C650i_C360i_C4050i_C4000i_C3320i.pkg - ONLY CHANGE IF NEEDED   ******-->  
-<InstallVar name="driverPackage">958_658e_558_368_367.pkg</InstallVar>
+<InstallVar name="driverPackage">750i_650i_306i_4750i_4700i.pkg</InstallVar>
 <!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: C750i_C650i_C360i_C4050i_C4000i_C3320i.pkg   ******-->
   
   
@@ -11,7 +11,7 @@
 
 <InstallVar name="ipaddress1">192.168.1.200</InstallVar>
 <InstallVar name="Location1">HomeOffice</InstallVar>
-<InstallVar name="PPDModel1">558</InstallVar>
+<InstallVar name="PPDModel1">650i</InstallVar>
 <InstallVar name="PrinterNamebw1">KM_BW</InstallVar>
 <InstallVar name="PrinterNameclr1">KM_COLOR</InstallVar>
 
