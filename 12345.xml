@@ -3,7 +3,7 @@
 <InstallVariables>
 
 <!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: C750i_C650i_C360i_C4050i_C4000i_C3320i.pkg - ONLY CHANGE IF NEEDED   ******-->  
-<InstallVar name="driverPackageName">958_658e_558_368_367.pkg</InstallVar>
+<InstallVar name="driverPackage">958_658e_558_368_367.pkg</InstallVar>
 <!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: C750i_C650i_C360i_C4050i_C4000i_C3320i.pkg   ******-->
   
   
